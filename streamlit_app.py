@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-import torch
+import
 from transformers import StableDiffusionPipeline
 
 # Load the pre-trained model
